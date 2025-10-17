@@ -15,14 +15,14 @@ This project demonstrates basic web development, form handling, and UPI integrat
 ---
 
 ###  Project Structure
-`
+```
 assigment-a/
 │
 ├── index.html # Main UI for payment demo
 ├── style.css # Styling for the interface
 ├── script.js # Logic for generating UPI payment links
 └── .git/ # Git version control data
-`
+```
 ---
 
 ### Features
@@ -41,9 +41,9 @@ assigment-a/
    - Transaction Note  
    - Amount (default ₹1.00)
 2. On clicking **“Pay via UPI”**, the app dynamically creates a UPI deep link in this format:
-   `
+   ```bash
    upi://pay?pa=<VPA>&pn=<PayeeName>&am=<Amount>&tn=<Note>&tr=<RandomRef>
-   `
+   ```
 
 3. The app then displays a status message confirming that the payment link is ready.
 
@@ -121,17 +121,18 @@ assignment-b/
   - Optimized for accessibility, performance, and SEO
   - Scalable and maintainable React architecture
 
- Run the Project
-# Clone repository and install dependencies
-`git clone <YOUR_GIT_URL>
+Run the Project
+ Clone repository and install dependencies
+```
+git clone <YOUR_GIT_URL>
 cd vibecoding-showcase
 npm install
-`
+```
 
-# Start development server
-`
+ Start development server
+```
 npm run dev
-`
+```
 
  Key Learning Outcomes
   - Rapid prototyping through AI-assisted vibecoding
