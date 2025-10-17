@@ -12,6 +12,8 @@ It allows users to simulate a UPI payment request by entering payment details su
 
 This project demonstrates basic web development, form handling, and UPI integration concepts for learning and experimentation purposes.
 
+🔗 Live Demo: [(https://vibecodingtool.netlify.app/)]
+
 ---
 
 ###  Project Structure
@@ -87,7 +89,7 @@ Learning Takeaways
 A production-ready web application demonstrating AI-assisted (vibecoding) full-stack development.
 Built entirely through conversational AI, this project showcases modern design systems, React component architecture, and beautiful UI/UX.
 
-🔗 Live Demo: https://joy-code-gem.lovable.app/
+🔗 Live Demo: [(https://vibecodingtool.netlify.app/)]
 
  Highlights
   - Built entirely through AI-driven development
