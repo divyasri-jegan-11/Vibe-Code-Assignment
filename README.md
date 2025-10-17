@@ -12,7 +12,7 @@ It allows users to simulate a UPI payment request by entering payment details su
 
 This project demonstrates basic web development, form handling, and UPI integration concepts for learning and experimentation purposes.
 
-🔗 Live Demo: [(https://vibecodingtool.netlify.app/)]
+🔗 Live Demo: [(https://upipaymentflow.netlify.app/)]
 
 ---
 
