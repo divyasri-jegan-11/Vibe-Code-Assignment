@@ -58,16 +58,16 @@ git clone https://github.com/<your-username>/assigment-a.git
 
 ```
 2.Navigate to the folder
-`
+```
 cd assigment-a
-`
+```
 
 3.Open the app in your browser
-`
+```
 start index.html     # on Windows
 open index.html      # on macOS
 xdg-open index.html  # on Linux
-`
+```
 Technologies Used
  - HTML5 — structure and layout
  - CSS3 — styling and responsiveness
@@ -105,7 +105,7 @@ Built entirely through conversational AI, this project showcases modern design s
   - Icons: Lucide React
 
 📂 Project Structure
-`
+```
 assignment-b/
 └── src/
     ├── components/
@@ -113,7 +113,7 @@ assignment-b/
     ├── assets/
     ├── index.css
     └── App.tsx
-    `
+ ```
 
  Features
   - Modern dark UI with gradients and animations
@@ -152,10 +152,10 @@ npm run dev
 |--------------------------|
 
  Repository Structure
- `
+ ```
 root/
 ├── assigment-a/              # UPI payment simulation frontend app
 └── vibecoding-showcase/      # Full-stack AI-built web app
-`
+```
 
 ----
