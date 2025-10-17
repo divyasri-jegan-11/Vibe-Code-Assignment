@@ -140,16 +140,16 @@ npm run dev
   - Modern web best practices (TypeScript, Tailwind, SEO)
   - Production-ready architecture with optimized builds
 
- Tools & Technologies Summary
-|Category|	Tools|
-|------------------|
-|Frontend	|React, TypeScript, HTML5, CSS3, JS (ES6)|
-|Styling	|Tailwind CSS, Custom CSS|
-|Build Tools	|Vite|
-|State & UI	|TanStack Query, Radix UI, shadcn/ui|
-|Version Control|	Git, GitHub|
-|Hosting	Lovable / Local|
-|--------------------------|
+##  Tools & Technologies Summary
+
+| Category          | Tools |
+|--------------------|--------|
+| **Frontend**       | React, TypeScript, HTML5, CSS3, JavaScript (ES6) |
+| **Styling**        | Tailwind CSS, Custom CSS |
+| **Build Tools**    | Vite |
+| **State & UI**     | TanStack Query, Radix UI, shadcn/ui |
+| **Version Control**| Git, GitHub |
+| **Hosting**        | Lovable, Local |
 
  Repository Structure
  ```
